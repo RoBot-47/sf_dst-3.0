@@ -1,6 +1,6 @@
 # SF-DST-3.0-Project-1
 
-# Проект 1. Анализ вакансий на hh.ru
+# Проект 1. Анализ резюме из HeadHunter
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/RoBot-47/sf_dst-3.0/blob/main/DST_3.0-Project_1/README.md#описание-проекта)  

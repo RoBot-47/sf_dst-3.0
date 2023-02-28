@@ -3,8 +3,8 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число](https://github.com/RoBot-47/sf_dst-3.0/tree/main/project_0)
-* [Проект 1.]
+* [Проект 0. Игра: Угадай число](https://github.com/RoBot-47/sf_dst-3.0/tree/main/DST_3.0-Project_0)
+* [Проект 1. Анализ вакансий на hh.ru](https://github.com/RoBot-47/sf_dst-3.0/tree/main/DST_3.0-Project_1)
 * [Проект 2.]
 
 ## Ссылка на резюме

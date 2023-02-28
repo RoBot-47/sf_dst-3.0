@@ -3,12 +3,12 @@
 # Проект 1. Анализ вакансий на hh.ru
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/RoBot-47/sf_dst-3.0/blob/main/DST_3.0-Project_1/README.md#описание-проекта)
-[2. Какой кейс решаем?](https://github.com/RoBot-47/sf_dst-3.0/blob/main/DST_3.0-Project_1/README.md#какой-кейс-решаем)
-[3. Краткая информация о данных](https://github.com/RoBot-47/sf_dst-3.0/blob/main/DST_3.0-Project_1/README.md#краткая-информация-о-данных)
-[4. Этапы работы над проектом](https://github.com/RoBot-47/sf_dst-3.0/blob/main/DST_3.0-Project_1/README.md#этапы-работы-над-проектом)
-[5. Результат](https://github.com/RoBot-47/sf_dst-3.0/blob/main/DST_3.0-Project_1/README.md#результаты)
-[6. Выводы](https://github.com/RoBot-47/sf_dst-3.0/blob/main/DST_3.0-Project_1/README.md#выводы)
+[1. Описание проекта](https://github.com/RoBot-47/sf_dst-3.0/blob/main/DST_3.0-Project_1/README.md#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/RoBot-47/sf_dst-3.0/blob/main/DST_3.0-Project_1/README.md#какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/RoBot-47/sf_dst-3.0/blob/main/DST_3.0-Project_1/README.md#краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/RoBot-47/sf_dst-3.0/blob/main/DST_3.0-Project_1/README.md#этапы-работы-над-проектом)  
+[5. Результат](https://github.com/RoBot-47/sf_dst-3.0/blob/main/DST_3.0-Project_1/README.md#результаты)  
+[6. Выводы](https://github.com/RoBot-47/sf_dst-3.0/blob/main/DST_3.0-Project_1/README.md#выводы)  
 
 ### Описание проекта    
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.

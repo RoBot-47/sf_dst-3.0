@@ -21,7 +21,7 @@
 
 
 ### Краткая информация о данных
-Файлы баз данных к проекту находятся по ссылке: https://drive.google.com/
+Файлы баз данных к проекту находятся по ссылке: https://drive.google.com/file/d/1-PPlprXQAToz8urB26E4ym8bgmY8GHDc/view?usp=share_link
   
 :arrow_up:[к оглавлению](https://github.com/RoBot-47/sf_dst-3.0/blob/main/DST_3.0-Project_1/README.md#оглавление)
 

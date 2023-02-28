@@ -52,4 +52,4 @@
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
-Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
+https://drive.google.com/file/d/1DJRevGzBJ4XLedYK2KWeQycJ6yjmWMlG/view?usp=share_link
